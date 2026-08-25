@@ -1,7 +1,15 @@
-# UPI Transaction Analytics
+# 💳 UPI Transaction Analytics Dashboard
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📌 Project Overview
-End-to-end UPI transaction analytics project using Python, SQL and Power BI.
+
+An end-to-end UPI transaction analytics project using Python, SQL and Power BI to analyze transaction performance, customer behavior, bank performance and fraud patterns.
+
+
 
 ## 🛠️ Tech Stack
 - Python
