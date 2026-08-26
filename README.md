@@ -67,3 +67,26 @@ README.md
 - **Weekday** transactions were significantly higher than weekend transactions.
 - **Recharge transactions** showed the highest fraud rate among transaction types.
 - **Kotak** recorded the highest fraud rate among the analyzed banks.
+
+## 📸 Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](Dashboard/Executive_Dashboard.png)
+
+### Bank & Merchant Analysis
+![Bank & Merchant Analysis](Dashboard/Bank_Merchant_Analysis.png)
+
+### Transaction & Customer Analysis
+![Transaction & Customer Analysis](Dashboard/Transaction_Customer_Analysis.png)
+
+### Fraud & Risk Analysis
+![Fraud & Risk Analysis](Dashboard/Fraud_Risk_Analysis.png)
+
+### Bank Detail Analysis
+![Bank Detail Analysis](Dashboard/Bank_Detail_Analysis.png)
+
+## 👨‍💻 Author
+
+**Ankit Kumar**
+
+If you found this project helpful, feel free to ⭐ this repository.
